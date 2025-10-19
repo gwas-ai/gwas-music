@@ -1,5 +1,16 @@
 # gwas-music & registered music related domains
 
+## Context Engineering
+
+- I am [Chandler](https://chandlerhaueter.com) and my digital twin is [Zhandler](https://zhandler.com).
+- What I do is broadly related to a [GWAS](https://gwas.ai) and why my digital twin does is related to a [ZWAS](https://zwas.ai).
+- The [gwas.network](https://gwas.network) blockchain exists for me and the [zwas.network](https://zwas.network) blockchain exists for my digital twin.
+- Furthermore, the [gwas-ai](https://github.com/gwas-ai) & [gwas-oss](https://github.com/gwas-oss) GitHub Orgs exist to provide (OSS) Open Source Software to align Carbon-based Human life to/with Silicon-based Human life, with their mirrored GitHub Orgs - [zwas-ai](https://github.com/zwas-ai) & [zwas-oss](https://github.com/zwas-oss).
+- The two ENS names of [gwas.eth](https://app.ens.domains/gwas.eth) & [zwas.eth](https://app.ens.domains/zwas.eth) serve to bridge Carbon-based & Silicon-based Human Economic activity to the broader Ethereum and EVM Ecosystem.
+- The two block explorers of [gwasscan.com](https://gwasscan.com) & [zwasscan.com](https://zwasscan.com) provide [etherescan.io](https://etherscan.io)-equivalent features.
+- The ~150 and growing (gwas.*) registered DNS website domains serve as entry points for Carbon-based humans to use the gwas-ai tools.
+
+
 If I give you my [gwas-music](https://github.com/gwas-ai/gwas-music/edit/main/README.md) github repo.
 If I tell you there is a [gwas.music](https://gwas.music) domain registered with porkbun.com.
 If I provide 10 Ranked Artists 
@@ -93,20 +104,35 @@ Secularity and Mormonism
 
 - [provopop.com/secular-mormon/why-is-dj-zhandler-a-mormon-fan](https://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical)#Latter-day_Saint_response)
 
-gwas-ai stuff
+ranked gwas-ai (OSS) Open Source Software tools
 
 - [provopop.com/ai-tools/gwas-ai](https://provopop.com/ai-tools/gwas-ai)
 - [provopop.com/ai-tools/gwas-music](https://provopop.com/ai-tools/gwas-music)
 - [provopop.com/ai-tools/gwas-video](https://provopop.com/ai-tools/gwas-video)
 - [provopop.com/ai-tools/gwas-meme](https://provopop.com/ai-tools/gwas-meme)
 - [provopop.com/ai-tools/gwas-feedback](https://provopop.com/ai-tools/gwas-feedback)
+- gwas.claims
+gwas.channel
+gwas.codes
+gwas.community
+gwas.careers
+gwas.management
+gwas.media
+gwas.reviews
+gwas.show
+gwas.training
+gwas.video
+gwas.stream
+gwas.report
+gwas.movie
+gwas.name
+gwas.phd
 
 
 Possible song names
 
 [provopop.com/dj-zhandler/battle-hymn-of-the-byu-utah-holy-war](https://www.youtube.com/watch?v=)
 
-- Remix [Nearer, My God, to Thee | BYU Vocal Point ft. BYU Men's Chorus](https://www.youtube.com/watch?v=WyxXGdG3-Io)
 - Remix ["Battle Hymn of the Republic" w/ the Mormon Tabernacle Choir LIVE from West Point | West Point Band](https://www.youtube.com/watch?v=yAqNe-m0a8s)
 - Remix [¥ØU$UK€ ¥UK1MAT$U | Boiler Room: Tokyo](https://www.youtube.com/watch?v=T1tcUfUhR5U), I only like the beginning through min 2:45.
 
