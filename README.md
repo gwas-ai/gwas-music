@@ -70,15 +70,31 @@ What do you do next?
 
 ## Recap of what I want
 
-### For [Provo Pop ~= Secular Mormon Fandom & AI Slop](https://provopop.com)
+### For [Provo Pop is for Secular *Mormon Fandom* & AI Slop](https://provopop.com)
 
 Possible semantic URLs for the website
 
+- [provopop.com/dj-zhandler/...](https://provopop.com/dj-zhandler/)
+
+Some themes for the AI Slop to remix about
+
+- [provopop.com/brigham-young-university/](https://provopop.com/brigham-young-university/)
+- [provopop.com/book-of-mormon/](https://provopop.com/book-of-mormon/)
+- [provopop.com/lds-church/](https://provopop.com/lds-church/)
+- [provopop.com/mormon-tabernacle-choir/](https://provopop.com/mormon-tabernacle-choir/)
 - [provopop.com/byu-utah-holy-war/...](https://provopop.com/byu-utah-holy-war/)
 - [provopop.com/byu-fandom/...](https://provopop.com/byu-fandom/)
-- [provopop.com/dj-zhandler/...](https://provopop.com/dj-zhandler/)
+
+AI slop stuff
+
 - [provopop.com/ai-slop-charts/...](https://provopop.com/ai-slop-charts/)
-- [provopop.com/secular-mormon/...](https://provopop.com/secular-mormon/)
+
+Secularity and Mormonism
+
+- [provopop.com/secular-mormon/why-is-dj-zhandler-a-mormon-fan](https://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical)#Latter-day_Saint_response)
+
+gwas-ai stuff
+
 - [provopop.com/ai-tools/gwas-ai](https://provopop.com/ai-tools/gwas-ai)
 - [provopop.com/ai-tools/gwas-music](https://provopop.com/ai-tools/gwas-music)
 - [provopop.com/ai-tools/gwas-video](https://provopop.com/ai-tools/gwas-video)
@@ -95,6 +111,7 @@ Possible song names
 - Remix [¥ØU$UK€ ¥UK1MAT$U | Boiler Room: Tokyo](https://www.youtube.com/watch?v=T1tcUfUhR5U), I only like the beginning through min 2:45.
 
 - This football game [#23 Utah vs. #15 BYU Game Highlights | 2025 Big 12 Football](https://www.youtube.com/watch?v=hf8IRP7B_RY)
+- The Music Video should be to the game's highlights [BYU vs UTAH | FULL GAME HIGHLIGHTS | BYU FOOTBALL](https://www.youtube.com/watch?v=FOzJm7n7Gyw)
 
 
 You have access to a Google Doc, Google Sheet, and a GitHub Gist
