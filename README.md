@@ -1,4 +1,4 @@
-# gwas-music
+# gwas-music & registered music related domains
 
 If I give you my [gwas-music](https://github.com/gwas-ai/gwas-music/edit/main/README.md) github repo.
 If I tell you there is a [gwas.music](https://gwas.music) domain registered with porkbun.com.
@@ -69,5 +69,32 @@ What do you do next?
 - Tab 100 is named
 
 ## Recap of what I want
+
+### For [Provo Pop ~= Secular Mormon Fandom & AI Slop](https://provopop.com)
+
+Possible semantic URLs for the website
+
+- [provopop.com/byu-utah-holy-war/...](https://provopop.com/byu-utah-holy-war/)
+- [provopop.com/byu-fandom/...](https://provopop.com/byu-fandom/)
+- [provopop.com/dj-zhandler/...](https://provopop.com/dj-zhandler/)
+- [provopop.com/ai-slop-charts/...](https://provopop.com/ai-slop-charts/)
+- [provopop.com/secular-mormon/...](https://provopop.com/secular-mormon/)
+- [provopop.com/ai-tools/gwas-ai](https://provopop.com/ai-tools/gwas-ai)
+- [provopop.com/ai-tools/gwas-music](https://provopop.com/ai-tools/gwas-music)
+- [provopop.com/ai-tools/gwas-video](https://provopop.com/ai-tools/gwas-video)
+- [provopop.com/ai-tools/gwas-meme](https://provopop.com/ai-tools/gwas-meme)
+- [provopop.com/ai-tools/gwas-feedback](https://provopop.com/ai-tools/gwas-feedback)
+
+
+Possible song names
+
+[provopop.com/dj-zhandler/battle-hymn-of-the-byu-utah-holy-war](https://www.youtube.com/watch?v=)
+
+- Remix [Nearer, My God, to Thee | BYU Vocal Point ft. BYU Men's Chorus](https://www.youtube.com/watch?v=WyxXGdG3-Io)
+- Remix ["Battle Hymn of the Republic" w/ the Mormon Tabernacle Choir LIVE from West Point | West Point Band](https://www.youtube.com/watch?v=yAqNe-m0a8s)
+- Remix [¥ØU$UK€ ¥UK1MAT$U | Boiler Room: Tokyo](https://www.youtube.com/watch?v=T1tcUfUhR5U), I only like the beginning through min 2:45.
+
+- This football game [#23 Utah vs. #15 BYU Game Highlights | 2025 Big 12 Football](https://www.youtube.com/watch?v=hf8IRP7B_RY)
+
 
 You have access to a Google Doc, Google Sheet, and a GitHub Gist
