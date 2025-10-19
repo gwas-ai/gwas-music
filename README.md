@@ -61,7 +61,7 @@ What do you do next?
 
 ## Provide you my last ~5,000 likes on YouTube
 
-## Provide you my subscriptions on YouTube
+## Provide you my Subscriptions on YouTube
 
 ## Provide you a list of my chatgpt.com conversations that contain the term 'music'
 
