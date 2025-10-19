@@ -22,18 +22,29 @@ What do you do next?
 
 ## Provide you 10 YouTube Videos Ranked
 
-- [1. ]()
-- [2. ](https://www.youtube.com/watch?v=)
-- [3. ](https://www.youtube.com/watch?v=)
-- [4. ](https://www.youtube.com/watch?v=)
-- [5. ](https://www.youtube.com/watch?v=)
-- [6. ](https://www.youtube.com/watch?v=)
+- [1. Lorn - Acid Rain (Official Music Video)](https://www.youtube.com/watch?v=nxg4C365LbQ)
+- [2. ¥ØU$UK€ ¥UK1MAT$U | Boiler Room: Tokyo](https://www.youtube.com/watch?v=T1tcUfUhR5U), only the beginning throught min 2:45.
+- [3. Bulgarian folklor- Kaval sviri](https://www.youtube.com/watch?v=hVqrW-fPOQ0)
+- [4. Sleep by The City at Night (official music video)](https://www.youtube.com/watch?v=enizvsvIV5I)
+- [5. Crazy bleacher vid](https://www.youtube.com/shorts/EewZzgUDAVA)
+- [6. Faithless - Insomnia (Official 4K Video)](https://www.youtube.com/watch?v=P8JEm4d6Wu4)
 - [7. ](https://www.youtube.com/watch?v=)
-- [8. ](https://www.youtube.com/watch?v=)
+- [8. Muslim Style Techno Dance](https://www.youtube.com/watch?v=0NDy6Rlijzo)
 - [9. RUN DMC, Jason Nevins - It's Like That *Official HD Video*](https://www.youtube.com/watch?v=TLGWQfK-6DY) & [RUN DMC-It´s Like That | Club Remix](https://www.youtube.com/watch?v=kTSZSTXqIbQ)
 - [10. ](https://www.youtube.com/watch?v=P8JEm4d6Wu4)
 
 ## Provide you 10 AI *Slop* Music Videos Ranked
+
+- [1. The Beautiful People (AI Soul Cover)](https://www.youtube.com/watch?v=97lk4QMp70c)
+- [2. Freak on a Leash (AI Soul Cover)](https://www.youtube.com/watch?v=bzQw-t1VeYY)
+- [3. Nirvana - Smells Like Teen Spirit (1960's Motown Soul Version AI Cover) by ‪@realalmostreal‬](https://www.youtube.com/watch?v=0IT6Au1pCFc)
+- [4. ]()
+- [5. ]()
+- [6. ]()
+- [7. ]()
+- [8. ]()
+- [9. ]()
+- [10. ]()
 
 ## Provide you my likes on Spotify
 
